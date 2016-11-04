@@ -5,3 +5,6 @@ def isEven(number):
         return True
     else:
         return False
+
+# checking
+print (isEven(3))
